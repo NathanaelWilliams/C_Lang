@@ -53,9 +53,9 @@ And there are 5 samples for C_language.
   Just learn a new Function sizeof() .You should know that printf() scanf() are functions,and f means function.
   >Main Code
   ```c
-    printf("%d",sizeof(int)); 
-   printf("%d",sizeof(double)); 
+  
+  printf("%d",sizeof(int)); 
+  printf("%d",sizeof(double)); 
    printf("%d",sizeof(char)); 
    printf("%d",sizeof(float)); 
  ```
-
