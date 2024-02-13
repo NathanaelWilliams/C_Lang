@@ -6,7 +6,7 @@ And there are 5 samples for C_language.
 + Sample1
   This is the basic sample of C_lang,and it teaches you how to print sth on your screen.
   >Code
-  ```
+  ```c
   #include <stdio.h>
   #include <stdlib.h>
   int main(){
@@ -25,4 +25,26 @@ And there are 5 samples for C_language.
   >OutPut
   ```
   HelloWorld
+  ```
+
++ Sample2
+  The sample shows that how to add num with another,and it shows the forms of the values.
+  >Main Code
+  ```c
+   int a,b,c; 
+   char d; 
+   char e = 'e'; 
+   d = e; 
+   int f = 1; 
+   c = f; 
+   a = 2; 
+   b = a + c; 
+   float g = 3.14; 
+   double h = 3.14159; 
+   printf("%d%c%f%lf",b,d,g,h); 
+   return 0;
+  ```
+  >OutPut
+  ```
+  3e3.143.14159
   ```
