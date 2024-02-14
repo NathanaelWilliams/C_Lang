@@ -4,6 +4,7 @@ I am very glad to support you by sharing samples which are useful for Dev with y
 And there are 5 samples for C_language.
 
 > + Sample1
+
 This is the basic sample of C_lang,and it teaches you how to print sth on your screen.
   >Code
   ```c
@@ -28,6 +29,7 @@ This is the basic sample of C_lang,and it teaches you how to print sth on your s
   ```
 
 > + Sample2
+
 The sample shows that how to add num with another,and it shows the forms of the values.
   >Main Code
   ```c
@@ -50,6 +52,7 @@ The sample shows that how to add num with another,and it shows the forms of the 
   ```
 
 > + Sample3
+
 Just learn a new Function sizeof() .You should know that printf() scanf() are functions,and f means function.
   >Main Code
   ```c
