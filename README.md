@@ -126,5 +126,8 @@ Try to use ***math.h*** to make a triangle computer
  }
   ```
   >OutPut
-  ```
+  ```java
+  The cosine of 60.000000 degrees is 0.500000. 
+The sine of 30.000000 degrees is 0.500000. 
+The tangent of 45.000000 degrees is 1.000000. 
   ```
