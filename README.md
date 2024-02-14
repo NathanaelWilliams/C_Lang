@@ -3,7 +3,7 @@ A number of samples of C language programs.
 I am very glad to support you by sharing samples which are useful for Dev with you👁.
 And there are 5 samples for C_language.
 
-+ Sample1
+> + Sample1
   This is the basic sample of C_lang,and it teaches you how to print sth on your screen.
   >Code
   ```c
@@ -27,7 +27,7 @@ And there are 5 samples for C_language.
   HelloWorld
   ```
 
-+ Sample2
+> + Sample2
   The sample shows that how to add num with another,and it shows the forms of the values.
   >Main Code
   ```c
@@ -49,7 +49,7 @@ And there are 5 samples for C_language.
   3e3.143.14159
   ```
 
-+ Sample3
+> + Sample3
   Just learn a new Function sizeof() .You should know that printf() scanf() are functions,and f means function.
   >Main Code
   ```c
