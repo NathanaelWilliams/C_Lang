@@ -5,7 +5,7 @@
 
 ## **Sample1**
 
-This is the basic sample of C_lang,and it teaches you how to **print** sth on your screen.
+This is the basic sample of C_lang,and it teaches you how to ***print*** sth on your screen.
   >Code
   ```c
   #include <stdio.h>
@@ -24,13 +24,13 @@ This is the basic sample of C_lang,and it teaches you how to **print** sth on yo
   }
   ```
   >OutPut
-  ```
+  ```json
   HelloWorld
   ```
 
 ## **Sample2**
 
-The sample shows that how to add num with another,and it shows the forms of the **values**.
+The sample shows that how to add num with another,and it shows the forms of the ***values***.
   >Main Code
   ```c
    int a,b,c; 
@@ -47,13 +47,13 @@ The sample shows that how to add num with another,and it shows the forms of the 
    return 0;
   ```
   >OutPut
-  ```
+  ```json
   3e3.143.14159
   ```
 
 ## **Sample3**
 
-Just learn a new *Function* **sizeof()**.<br> You should know that **printf()** ,**scanf()** are functions,and f means function.
+Just learn a new *Function* ***sizeof()***.<br> You should know that ***printf()*** ,***scanf()*** are functions,and f means ***function***.
   >Main Code
   ```c
   
@@ -64,7 +64,7 @@ Just learn a new *Function* **sizeof()**.<br> You should know that **printf()** 
  ```
 ## **Sample4**
 
-Learn how to use **switch** and **case**
+Learn how to use ***switch*** and ***case***
   >Main Code
   ```c
 
@@ -83,4 +83,12 @@ Learn how to use **switch** and **case**
          d = (long)a % (long)b; break; 
      } 
      printf("%G %c %G = %G\n", a, c, b, d);
-```
+  ```
+  >InPut
+  ```json
+  10 * 6
+  ```
+  >OutPut
+  ```json
+  10 * 6 = 60
+  ```
