@@ -1,7 +1,7 @@
 # C_Lang
-A number of samples of C language programs.<br>
-I am very glad to support you by sharing samples which are useful for Dev with you👁.<br>
-And there are 5 samples for C_language.
+  A number of samples of C language programs.<br>
+  I am very glad to support you by sharing samples which are useful for Dev with you👁.<br>
+  And there are 5 samples for C_language.
 
 # Sample1
 
@@ -53,7 +53,7 @@ The sample shows that how to add num with another,and it shows the forms of the 
 
 # Sample3
 
-Just learn a new Function sizeof() .<br> You should know that printf() scanf() are functions,and f means function.
+Just learn a new Function sizeof().<br> You should know that printf() scanf() are functions,and f means function.
   >Main Code
   ```c
   
