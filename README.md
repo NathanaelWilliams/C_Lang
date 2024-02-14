@@ -3,9 +3,9 @@
   &emsp; I am very glad to support you by sharing samples which are useful for Dev with you👁.<br>
   &emsp; And there are 5 samples for C_language.
 
-# Sample1
+## **Sample1**
 
-This is the basic sample of C_lang,and it teaches you how to print sth on your screen.
+This is the basic sample of C_lang,and it teaches you how to **print** sth on your screen.
   >Code
   ```c
   #include <stdio.h>
@@ -28,9 +28,9 @@ This is the basic sample of C_lang,and it teaches you how to print sth on your s
   HelloWorld
   ```
 
-# Sample2
+## **Sample2**
 
-The sample shows that how to add num with another,and it shows the forms of the values.
+The sample shows that how to add num with another,and it shows the forms of the **values**.
   >Main Code
   ```c
    int a,b,c; 
@@ -51,9 +51,9 @@ The sample shows that how to add num with another,and it shows the forms of the 
   3e3.143.14159
   ```
 
-# Sample3
+## **Sample3**
 
-Just learn a new Function sizeof().<br> You should know that printf() scanf() are functions,and f means function.
+Just learn a new *Function* **sizeof()**.<br> You should know that **printf()** ,**scanf()** are functions,and f means function.
   >Main Code
   ```c
   
@@ -62,3 +62,25 @@ Just learn a new Function sizeof().<br> You should know that printf() scanf() ar
    printf("%d",sizeof(char)); 
    printf("%d",sizeof(float)); 
  ```
+## **Sample4**
+
+Learn how to use **switch** and **case**
+  >Main Code
+  ```c
+
+    double a, b, d; 
+     char c; 
+     scanf("%lf %c %lf", &a, &c, &b); 
+     switch (c) 
+     { 
+     case'+':d = a + b; break; 
+     case'-':d = a - b; break; 
+     case'*':d = a * b; break; 
+     case'/':d = a / b; break; 
+     case'%': 
+         a = (long)a; 
+         b = (long)b; 
+         d = (long)a % (long)b; break; 
+     } 
+     printf("%G %c %G = %G\n", a, c, b, d);
+```
