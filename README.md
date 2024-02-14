@@ -62,6 +62,11 @@ Just learn a new *Function* ***sizeof()***.<br> You should know that ***printf()
    printf("%d",sizeof(char)); 
    printf("%d",sizeof(float)); 
  ```
+  >OutPut
+  ```java
+  4814
+  ```
+
 ## **Sample4**
 
 Learn how to use ***switch*** and ***case***,and make a computer.
