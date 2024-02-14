@@ -96,7 +96,6 @@ Learn how to use ***switch*** and ***case***,and make a computer.
 ## **Sample5**
 
 Try to use ***math.h*** to make a triangle computer
-![triangle](./triangle.jpg)
   >Code
   ```c
  #include <stdio.h>       
